@@ -10,7 +10,7 @@ echo "#==================================================================#"
 echo
 base64 -d <<<"CiDilIzilIDilJDilKzilIzilKzilJAgIOKUjOKUgOKUkOKUjOKUgOKUkOKUjOKUrOKUkOKUjOKUrOKUkOKUrOKUjOKUrOKUkAog4pSCIOKUrOKUgiDilIIgICDilIIgIOKUgiDilILilILilILilILilILilILilILilIIg4pSCIAog4pSU4pSA4pSY4pS0IOKUtCAgIOKUlOKUgOKUmOKUlOKUgOKUmOKUtCDilLTilLQg4pS04pS0IOKUtCAKIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQ=="
 echo
-    read -p "   Ecris ton commit:" commit
+    read -p "   Ecris ton commit : " commit
 echo
 echo
 echo "#==================================================================#"
