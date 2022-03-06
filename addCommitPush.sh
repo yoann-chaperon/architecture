@@ -17,5 +17,6 @@ echo "#==================================================================#"
 git com "$commit" && git push
 base64 -d <<<"CuKUjOKUgOKUkOKUrOKUjOKUrOKUkCAg4pSM4pSA4pSQ4pSsIOKUrOKUjOKUgOKUkOKUrCDilKwgIOKUjOKUgOKUkOKUrOKUjOKUgArilIIg4pSs4pSCIOKUgiAgIOKUnOKUgOKUmOKUgiDilILilJTilIDilJDilJzilIDilKQgIOKUgiDilILilJzilLTilJAK4pSU4pSA4pSY4pS0IOKUtCAgIOKUtCAg4pSU4pSA4pSY4pSU4pSA4pSY4pS0IOKUtCAg4pSU4pSA4pSY4pS0IOKUtCAKCg=="
 echo "      ton commit ➡️  "  $commit
-echo "      as bien été push ✅"
-echo "      🏹 😜"
+echo
+echo "      as bien été push 🥊"
+echo "      🏹 😜 ✅"
