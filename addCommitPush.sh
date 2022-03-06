@@ -19,4 +19,5 @@ base64 -d <<<"CuKUjOKUgOKUkOKUrOKUjOKUrOKUkCAg4pSM4pSA4pSQ4pSsIOKUrOKUjOKUgOKUkO
 echo "      ton commit ➡️  "  $commit
 echo
 echo "      as bien été push 🥊"
-echo "      🏹 😜 ✅"
+echo
+echo "      🏹   😜   ✅"
